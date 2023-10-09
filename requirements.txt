@@ -1,0 +1,12 @@
+opencv-python==4.8.0.76
+opencv-contrib-python==4.8.0.76
+numpy==1.24.3
+Pillow==9.0.1
+h5py==2.10.0
+imutils==0.5.3
+MTCNN==0.1.1
+torch==2.0.1
+tensorflow==2.13.0
+scikit-image==0.21.0
+datetime==5.2
+thread6==0.2.0
