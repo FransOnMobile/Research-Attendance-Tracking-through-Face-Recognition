@@ -6,7 +6,12 @@ h5py==2.10.0
 imutils==0.5.3
 MTCNN==0.1.1
 torch==2.0.1
-tensorflow==2.13.0
+tensorflow==2.14.0
 scikit-image==0.21.0
 datetime==5.2
 thread6==0.2.0
+keras
+deepface
+dlib
+
+using python 3.10
