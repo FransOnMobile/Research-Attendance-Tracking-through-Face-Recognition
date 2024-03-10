@@ -261,4 +261,4 @@ if __name__ == "__main__":
     cap.release()
     cv2.destroyAllWindows()
 
-write_attendance_to_file(attendance_tracker, student_timestamps, timestamps, student_names)
+write_attendance_to_file(attendance_tracker, student_timestamps, timestamps, student_names, class_periods)
